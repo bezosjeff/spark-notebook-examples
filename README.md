@@ -4,6 +4,6 @@ This is a collect of notebooks (IPython/Jupyter, Zeppelin) presented at the [Sea
 
 Data required for running these notebooks are included. You will need to update notebooks with your paths to data.
 
-
+Hello this is Bezos Jeff!
 
 All rights reserved for their respective owners.
